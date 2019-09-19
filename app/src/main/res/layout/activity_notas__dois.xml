@@ -100,11 +100,7 @@
         android:text="Attachments \n"
         android:background="@drawable/linepagdois"></TextView>
 
+
     
-
-
-
-
-
 
 </LinearLayout>
